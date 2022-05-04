@@ -1,0 +1,134 @@
+*{
+    margin: 1px;;
+    padding: 1px;
+}
+
+.lista-nav{
+    list-style-type: none;
+    text-align: center;
+    
+}
+
+.horizontal{
+    float: left;
+    
+    margin-right: 10px;
+    padding: 20px;
+    display: inline;
+    margin-right: 15px;
+    line-height: 15;
+    text-align: center;
+  
+}
+.letra{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+.imagen-fondo{
+    background-image:url(imagenes/orion.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+height: 200px;
+
+}
+
+.block__main{
+    background-color: #000000 ;
+    
+}
+
+
+
+.color-texto{
+    color: #ffffff;
+}
+
+.imagen-tamaño{
+    max-width:40%;
+    max-height: 40%;
+}
+
+.textoGrande {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+ .izquierda {
+    text-align: left;
+ }
+
+ .centrar {
+    text-align: center;
+ }
+ 
+ .justificar{
+    text-align: justify;
+    line-height: 1.6;
+ }
+
+ .imagen-fondo2{
+    background-image:url(imagenes/orion.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+ }
+
+ .icono-tamaño{
+    
+    height: 30px;
+    width: 30px;
+ }
+
+ .imagen-tamaño2{
+    height: 20%;
+    width: 20%;
+}
+
+.derecha {
+    text-align: right;
+ }
+
+ 
+
+ .letra-texto{
+     font-family: 'Courier New', Courier, monospace;
+ }
+
+ .posicion{
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 12px;
+    margin-left: 15px;
+ }
+
+ .cc{
+    position: static;
+ }
+ 
+ .box {
+    display: block;
+    width: 10px;
+    height: 10px;
+   
+  }
+
+  .xx{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+ 
+  
+    
+
+ 
+
+
+ 
+    
+
